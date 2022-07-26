@@ -21,6 +21,6 @@
 
 ## Links
 
-#### Live Site [Link](https://www.google.com)
+#### Live Site [Link](https://foodrestaurantpage.netlify.app/)
 
-#### Github Repo [link](Https://github.com)
+#### Github Repo [link](https://github.com/zubair-shabir/Food-Restaurant-page.git)
