@@ -71,11 +71,7 @@
 }
 .bottom img{
   position: absolute;
-<<<<<<< HEAD
-  bottom: -50px;
-=======
-  bottom: -80px;
->>>>>>> a44a9f3b85fafd2d0c37689df78166c781866c42
-  right: -90px;
+  bottom: -60px;
+  right: -50px;
   width: 150px;
 }
